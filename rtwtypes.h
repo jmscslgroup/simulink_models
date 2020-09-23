@@ -7,9 +7,9 @@
 //
 // Code generated for Simulink model 'mode_changer'.
 //
-// Model version                  : 1.110
+// Model version                  : 1.112
 // Simulink Coder version         : 9.3 (R2020a) 18-Nov-2019
-// C/C++ source code generated on : Tue Sep 22 16:57:27 2020
+// C/C++ source code generated on : Tue Sep 22 17:17:32 2020
 //
 // Target selection: ert.tlc
 // Embedded hardware selection: Generic->Unspecified (assume 32-bit Generic)
