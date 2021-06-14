@@ -26,6 +26,20 @@ codegen/
 
 # Simulink cache files
 *.slxc
+# Codegen files
+build_ros_model.sh
+*.tgz
+*_ert_rtw/
+*.swp
 
 # Octave session info
 octave-workspace
+
+*.r2018a
+*.r2018b
+*.r2019a
+*.r2019b
+*.r2020a
+*.r2020b
+*.original
+
