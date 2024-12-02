@@ -7,6 +7,9 @@
 # Compiled MEX binaries (all platforms)
 *.mex*
 
+# stupid apple stuff
+.DS_Store
+
 # Packaged app and toolbox files
 *.mlappinstall
 *.mltbx
@@ -17,6 +20,10 @@ helpsearch*/
 # Simulink code generation folders
 slprj/
 sccprj/
++bus_conv_fcns/
+src/
+log/
+
 
 # Matlab code generation folders
 codegen/
